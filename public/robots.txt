@@ -1,0 +1,4 @@
+# 43.1 React Router Intro, Springboard
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
